@@ -24,7 +24,7 @@ def createCSV():
                 fieldName = [" Temperature C "," Humidity % "," Time "]
                 csv_writer = csv.writer(csv_file)
                 #csv_writer.writeheader()
-                for i in range(1,1000):
+                for i in csv_writer:
                         csv_writer.writerow([temperature,humidity,time])
 
 

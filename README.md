@@ -8,3 +8,4 @@ For basic set up and an output to a ssh terminal refer: http://www.circuitbasics
   
 To know more about ThingSpeak™: https://thingspeak.com/pages/learn_more 
 
+Project partner - <a href = "https://github.com/jayu3773"><strong> Jayesh Shelar</strong><a>
